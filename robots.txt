@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://suiwenfeng.github.io/tunbox//sitemap.xml
